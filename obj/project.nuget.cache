@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LLvXj0Km7u2lPU/RuDfi6pcxk+i5rklL3Vzs0TbekeO96YYaNnb/S+/OFlS2BHex5Oz8wm/9CSSKKOPr/9alCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisa\\OneDrive\\Área de Trabalho\\ADS\\2023-5ºPeriodo\\Programação IV\\ExercícioAPI-RESTful-Produto__\\ExercícioAPI-RESTful-Produto__\\ExercícioAPI-RESTful-Produto__.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisa\\.nuget\\packages\\featherhttp\\0.1.83-alpha.g15473de7d1\\featherhttp.0.1.83-alpha.g15473de7d1.nupkg.sha512",
+    "C:\\Users\\luisa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\luisa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\luisa\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\luisa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\luisa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\luisa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
